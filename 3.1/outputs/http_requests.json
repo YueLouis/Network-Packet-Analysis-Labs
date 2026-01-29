@@ -1,0 +1,19 @@
+[
+  {
+    "src_ip": "10.0.106.178",
+    "dst_ip": "23.200.230.70",
+    "src_port": 35435,
+    "dst_port": 80,
+    "method": "GET",
+    "path": "/connecttest.txt",
+    "version": "HTTP/1.1",
+    "host": "www.msftconnecttest.com",
+    "full_url": "http://www.msftconnecttest.com/connecttest.txt",
+    "headers": {
+      "Connection": "Close",
+      "User-Agent": "Microsoft NCSI",
+      "Host": "www.msftconnecttest.com"
+    },
+    "payload_size": 111
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "total_packets": 150,
+  "connections": {
+    "192.168.1.100:54321-93.184.216.34:53": {
+      "protocol": "DNS",
+      "packets": 5,
+      "total_bytes": 450
+    },
+    "192.168.1.100:54322-142.251.32.46:80": {
+      "protocol": "Unknown",
+      "packets": 42,
+      "total_bytes": 25000
+    },
+    "192.168.1.100:54323-151.101.1.140:443": {
+      "protocol": "Unknown",
+      "packets": 38,
+      "total_bytes": 18500
+    },
+    "192.168.1.100:5353-224.0.0.251:5353": {
+      "protocol": "mDNS",
+      "packets": 8,
+      "total_bytes": 2000
+    }
+  }
+}

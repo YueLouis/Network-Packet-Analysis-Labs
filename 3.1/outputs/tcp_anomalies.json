@@ -1,0 +1,6 @@
+{
+  "total_packets": 439,
+  "retransmissions_count": 20,
+  "out_of_order_count": 50,
+  "duplicate_acks_count": 46
+}

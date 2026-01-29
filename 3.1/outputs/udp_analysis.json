@@ -1,0 +1,170 @@
+{
+  "total_packets": 96,
+  "connections": {
+    "10.0.0.1:67-255.255.255.255:68": {
+      "protocol": "DHCP",
+      "packets": 9,
+      "total_bytes": 2724
+    },
+    "10.0.106.178:61108-10.0.0.1:53": {
+      "protocol": "DNS",
+      "packets": 2,
+      "total_bytes": 100
+    },
+    "10.0.0.1:53-10.0.106.178:61108": {
+      "protocol": "DNS",
+      "packets": 2,
+      "total_bytes": 428
+    },
+    "10.0.106.178:51410-10.0.0.1:53": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 41
+    },
+    "10.0.0.1:53-10.0.106.178:51410": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 191
+    },
+    "10.0.106.178:62376-10.0.0.1:53": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 37
+    },
+    "10.0.106.178:58555-10.0.0.1:53": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 37
+    },
+    "10.0.0.1:53-10.0.106.178:58555": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 222
+    },
+    "10.0.0.1:53-10.0.106.178:62376": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 314
+    },
+    "10.0.106.178:62243-10.0.0.1:53": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 29
+    },
+    "10.0.106.178:53905-10.0.0.1:53": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 29
+    },
+    "10.0.0.1:53-10.0.106.178:62243": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 61
+    },
+    "10.0.106.178:51875-104.18.32.47:443": {
+      "protocol": "Unknown",
+      "packets": 24,
+      "total_bytes": 24399
+    },
+    "10.0.0.1:53-10.0.106.178:53905": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 29
+    },
+    "104.18.32.47:443-10.0.106.178:51875": {
+      "protocol": "Unknown",
+      "packets": 16,
+      "total_bytes": 7700
+    },
+    "10.0.106.178:64319-10.0.0.1:53": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 32
+    },
+    "10.0.106.178:56096-10.0.0.1:53": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 32
+    },
+    "10.0.0.1:53-10.0.106.178:56096": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 105
+    },
+    "10.0.0.1:53-10.0.106.178:64319": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 64
+    },
+    "142.251.111.106:443-10.0.106.178:53193": {
+      "protocol": "Unknown",
+      "packets": 1,
+      "total_bytes": 68
+    },
+    "10.0.0.1:5678-255.255.255.255:5678": {
+      "protocol": "Unknown",
+      "packets": 1,
+      "total_bytes": 161
+    },
+    "10.0.106.178:63343-10.0.0.1:53": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 50
+    },
+    "10.0.106.178:63766-10.0.0.1:53": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 50
+    },
+    "10.0.0.1:53-10.0.106.178:63766": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 180
+    },
+    "10.0.0.1:53-10.0.106.178:63343": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 157
+    },
+    "10.0.106.178:64280-10.0.0.1:53": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 29
+    },
+    "10.0.106.178:51372-10.0.0.1:53": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 29
+    },
+    "10.0.0.1:53-10.0.106.178:51372": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 45
+    },
+    "10.0.106.178:55708-74.112.186.157:443": {
+      "protocol": "Unknown",
+      "packets": 8,
+      "total_bytes": 3964
+    },
+    "74.112.186.157:443-10.0.106.178:55708": {
+      "protocol": "Unknown",
+      "packets": 9,
+      "total_bytes": 3554
+    },
+    "10.0.0.1:53-10.0.106.178:64280": {
+      "protocol": "DNS",
+      "packets": 1,
+      "total_bytes": 29
+    },
+    "10.0.106.178:59159-185.125.190.58:123": {
+      "protocol": "NTP",
+      "packets": 1,
+      "total_bytes": 48
+    },
+    "185.125.190.58:123-10.0.106.178:59159": {
+      "protocol": "Unknown",
+      "packets": 1,
+      "total_bytes": 48
+    }
+  }
+}

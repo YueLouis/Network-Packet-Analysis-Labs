@@ -1,0 +1,9 @@
+# Lab 3.2: AI-Powered Packet Dissectors - Requirements
+
+# Core dependencies
+scapy>=2.5.0          # Packet manipulation
+openai>=1.0.0         # OpenAI SDK (compatible with Groq)
+
+# Optional
+requests>=2.31.0      # HTTP requests
+python-dotenv>=1.0.0  # Environment variables
